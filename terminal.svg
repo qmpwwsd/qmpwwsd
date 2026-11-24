@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="1227" viewBox="0 0 640 1227" role="img" aria-labelledby="t d">
+<title id="t">qmpwwsd - terminal profile</title>
+<desc id="d">Terminal-style profile card for qmpwwsd: figlet banner, fastfetch summary, about, stack, tools, projects and contact.</desc>
+<style>
+text{font-family:SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;font-size:14px;fill:#3ddc5a;white-space:pre}
+.p{fill:#00ff66;font-weight:bold}
+.c{fill:#b6ffc8}
+.h{fill:#00ff66}
+.hb{fill:#00ff66;font-weight:bold}
+.d{fill:#2a9d47}
+.k{fill:#000}
+.kb{fill:#000;font-weight:bold}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes blink{0%{opacity:1}50%{opacity:0}100%{opacity:1}}
+</style>
+<rect x="0.5" y="0.5" width="639" height="1226" rx="8" ry="8" fill="#0c0c0c" stroke="#1f6f35" stroke-width="1"/>
+<circle cx="18" cy="14" r="5" fill="#ff5f56"/>
+<circle cx="36" cy="14" r="5" fill="#ffbd2e"/>
+<circle cx="54" cy="14" r="5" fill="#27c93f"/>
+<text x="320" y="18" text-anchor="middle" style="font-size:12px;fill:#7fbf8f">qmpwwsd@github: ~</text>
+<rect class="cur" x="154.88" y="1169" width="8.43" height="17" fill="#00ff66"/>
+<rect x="0" y="1188" width="640" height="19" fill="#00b341"/>
+<text xml:space="preserve" x="20" y="62" textLength="252.9" lengthAdjust="spacing"><tspan class="p">guest@github:~$</tspan><tspan class="c"> figlet qmpwwsd</tspan></text>
+<text xml:space="preserve" x="20" y="81" textLength="429.93" lengthAdjust="spacing" class="h">                                                  _</text>
+<text xml:space="preserve" x="20" y="100" textLength="438.36" lengthAdjust="spacing" class="h">   __ _ _ __ ___  _ ____      ____      _____  __| |</text>
+<text xml:space="preserve" x="20" y="119" textLength="438.36" lengthAdjust="spacing" class="h">  / _` | '_ ` _ \| '_ \ \ /\ / /\ \ /\ / / __|/ _` |</text>
+<text xml:space="preserve" x="20" y="138" textLength="438.36" lengthAdjust="spacing" class="h"> | (_| | | | | | | |_) \ V  V /  \ V  V /\__ \ (_| |</text>
+<text xml:space="preserve" x="20" y="157" textLength="438.36" lengthAdjust="spacing" class="h">  \__, |_| |_| |_| .__/ \_/\_/    \_/\_/ |___/\__,_|</text>
+<text xml:space="preserve" x="20" y="176" textLength="168.6" lengthAdjust="spacing" class="h">     |_|         |_|</text>
+<text xml:space="preserve" x="20" y="214" textLength="210.75" lengthAdjust="spacing"><tspan class="p">guest@github:~$</tspan><tspan class="c"> fastfetch</tspan></text>
+<text xml:space="preserve" x="20" y="233" textLength="126.45" lengthAdjust="spacing" class="hb"> qmpwwsd@github</text>
+<text xml:space="preserve" x="20" y="252" textLength="261.33" lengthAdjust="spacing" class="d"> ──────────────────────────────</text>
+<text xml:space="preserve" x="20" y="271" textLength="185.46" lengthAdjust="spacing"><tspan class="h"> os</tspan>      ubuntu, macos</text>
+<text xml:space="preserve" x="20" y="290" textLength="101.16" lengthAdjust="spacing"><tspan class="h"> shell</tspan>   zsh</text>
+<text xml:space="preserve" x="20" y="309" textLength="126.45" lengthAdjust="spacing"><tspan class="h"> editor</tspan>  neovim</text>
+<text xml:space="preserve" x="20" y="328" textLength="134.88" lengthAdjust="spacing"><tspan class="h"> term</tspan>    ghostty</text>
+<text xml:space="preserve" x="20" y="347" textLength="109.59" lengthAdjust="spacing"><tspan class="h"> mux</tspan>     tmux</text>
+<text xml:space="preserve" x="20" y="366" textLength="219.18" lengthAdjust="spacing"><tspan class="h"> role</tspan>    software engineer</text>
+<text xml:space="preserve" x="20" y="385" textLength="269.76" lengthAdjust="spacing"><tspan class="h"> focus</tspan>   frontend/backend/devops</text>
+<text xml:space="preserve" x="20" y="404" textLength="160.17" lengthAdjust="spacing"><tspan class="h"> ai</tspan>      used daily</text>
+<text xml:space="preserve" x="20" y="442" textLength="244.47" lengthAdjust="spacing"><tspan class="p">guest@github:~$</tspan><tspan class="c"> cat about.txt</tspan></text>
+<text xml:space="preserve" x="20" y="461" textLength="387.78" lengthAdjust="spacing" class="d">┌────────────────────────────────────────────┐</text>
+<text xml:space="preserve" x="20" y="480" textLength="387.78" lengthAdjust="spacing"><tspan class="d">│</tspan> &gt; end to end: from the UI down to infra    <tspan class="d">│</tspan></text>
+<text xml:space="preserve" x="20" y="499" textLength="387.78" lengthAdjust="spacing"><tspan class="d">│</tspan> &gt; uses AI daily                            <tspan class="d">│</tspan></text>
+<text xml:space="preserve" x="20" y="518" textLength="387.78" lengthAdjust="spacing"><tspan class="d">│</tspan> &gt; builds tools to automate and improve     <tspan class="d">│</tspan></text>
+<text xml:space="preserve" x="20" y="537" textLength="387.78" lengthAdjust="spacing"><tspan class="d">│</tspan>   workflows                                <tspan class="d">│</tspan></text>
+<text xml:space="preserve" x="20" y="556" textLength="387.78" lengthAdjust="spacing"><tspan class="d">│</tspan> &gt; owns Stackfolk                           <tspan class="d">│</tspan></text>
+<text xml:space="preserve" x="20" y="575" textLength="387.78" lengthAdjust="spacing" class="d">└────────────────────────────────────────────┘</text>
+<text xml:space="preserve" x="20" y="613" textLength="210.75" lengthAdjust="spacing"><tspan class="p">guest@github:~$</tspan><tspan class="c"> ls stack/</tspan></text>
+<text xml:space="preserve" x="20" y="632" textLength="488.94" lengthAdjust="spacing">lang/      typescript javascript python rust lua shell sql</text>
+<text xml:space="preserve" x="20" y="651" textLength="236.04" lengthAdjust="spacing">frontend/  vue nuxt html css</text>
+<text xml:space="preserve" x="20" y="670" textLength="320.34" lengthAdjust="spacing">backend/   node nestjs python postgres</text>
+<text xml:space="preserve" x="20" y="689" textLength="455.22" lengthAdjust="spacing">devops/    docker kubectl aws github-actions iac trivy</text>
+<text xml:space="preserve" x="20" y="708" textLength="379.35" lengthAdjust="spacing">tools/     pnpm turborepo vitest eslint biome</text>
+<text xml:space="preserve" x="20" y="746" textLength="244.47" lengthAdjust="spacing"><tspan class="p">guest@github:~$</tspan><tspan class="c"> ls ~/.config/</tspan></text>
+<text xml:space="preserve" x="20" y="765" textLength="354.06" lengthAdjust="spacing">shell      zsh oh-my-posh atuin fzf zoxide</text>
+<text xml:space="preserve" x="20" y="784" textLength="143.31" lengthAdjust="spacing">editor     neovim</text>
+<text xml:space="preserve" x="20" y="803" textLength="193.89" lengthAdjust="spacing">mux+term   tmux ghostty</text>
+<text xml:space="preserve" x="20" y="822" textLength="328.77" lengthAdjust="spacing">files      yazi bat eza ripgrep fd glow</text>
+<text xml:space="preserve" x="20" y="841" textLength="261.33" lengthAdjust="spacing">git        lazygit git-delta gh</text>
+<text xml:space="preserve" x="20" y="860" textLength="320.34" lengthAdjust="spacing">ops        lazydocker kubectl k9s btop</text>
+<text xml:space="preserve" x="20" y="879" textLength="303.48" lengthAdjust="spacing">data       jq yq xh rainfrog posting</text>
+<text xml:space="preserve" x="20" y="898" textLength="303.48" lengthAdjust="spacing">misc       fastfetch tldr navi jless</text>
+<text xml:space="preserve" x="20" y="936" textLength="261.33" lengthAdjust="spacing"><tspan class="p">guest@github:~$</tspan><tspan class="c"> ls -l projects/</tspan></text>
+<text xml:space="preserve" x="20" y="955" textLength="244.47" lengthAdjust="spacing">drwxr-xr-x  nika      <tspan class="d">Rust/TS</tspan></text>
+<text xml:space="preserve" x="20" y="974" textLength="463.65" lengthAdjust="spacing">            local dashboard for coding agents on a Mac,</text>
+<text xml:space="preserve" x="20" y="993" textLength="252.9" lengthAdjust="spacing">            grouped by project</text>
+<text xml:space="preserve" x="20" y="1012" textLength="126.45" lengthAdjust="spacing">drwxr-xr-x  jdr</text>
+<text xml:space="preserve" x="20" y="1031" textLength="488.94" lengthAdjust="spacing">            jobs &amp; hiring platform, full stack (Stackfolk)</text>
+<text xml:space="preserve" x="20" y="1050" textLength="261.33" lengthAdjust="spacing">drwxr-xr-x  dotfiles  <tspan class="d">Lua/shell</tspan></text>
+<text xml:space="preserve" x="20" y="1069" textLength="345.63" lengthAdjust="spacing">            dev environment, stow-managed</text>
+<text xml:space="preserve" x="20" y="1107" textLength="261.33" lengthAdjust="spacing"><tspan class="p">guest@github:~$</tspan><tspan class="c"> cat contact.txt</tspan></text>
+<text xml:space="preserve" x="20" y="1126" textLength="202.32" lengthAdjust="spacing">telegram  t.me/aienslave</text>
+<text xml:space="preserve" x="20" y="1145" textLength="236.04" lengthAdjust="spacing">github    github.com/qmpwwsd</text>
+<text xml:space="preserve" x="20" y="1183" textLength="143.31" lengthAdjust="spacing"><tspan class="p">guest@github:~$</tspan> _</text>
+<text xml:space="preserve" x="20" y="1202" textLength="522.66" lengthAdjust="spacing" class="k">[0] zsh  1:nvim  <tspan class="kb">2:pnpm*</tspan>  3:lazygit        guest@github  dev#0</text>
+</svg>
